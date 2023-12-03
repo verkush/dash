@@ -69,3 +69,9 @@ export const NAV_SIDEBAR_TEAM_LINKS = [
     current: false,
   },
 ];
+
+export const DOC_FORM_MEUN_ITEMS = [
+  { id: 1, name: "Generic" },
+  { id: 2, name: "SecRM" },
+  { id: 3, name: "SocRM" },
+];
